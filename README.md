@@ -1,4 +1,4 @@
-# backdoor
+# Backdoor (Python Based Reverse Connection Backdoor)
 
 This is a **Python Backdoor** that is capable of getting a **Reverse Shell** from the target computer if the backdoor.py file is executed somehow in it regardless of the Operating system.
 
