@@ -10,6 +10,6 @@ This is a **Python Backdoor** that is capable of getting a **Reverse Shell** fro
 
 > python3 listner.py
 
-**NOTE : This project is only for _Educational Purposes_. Use it on the systems that you are _Authorized_. The Developer is _Not Responsible_ for any damage due to this program.
+**NOTE : This project is only for _Educational Purposes_. Use it on the systems that you are _Authorized_. The Developer is _Not Responsible_ for any damage due to this program.**
 
 
